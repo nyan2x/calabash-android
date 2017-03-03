@@ -1,3 +1,6 @@
-#Playing around calabash-android
+##Playing around calabash-android
 
-Note: I got `my-calculator.apk` [here](https://www.youtube.com/watch?v=qqW94bvcuns)
+I got `my-calculator.apk` [here](https://www.youtube.com/watch?v=qqW94bvcuns)
+
+###Issues encountered:
+1. RunTime error occurs from time to time.
